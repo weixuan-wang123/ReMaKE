@@ -9,7 +9,7 @@ This repository contains the data and codes for our paper "[Retrieval-augmented 
 
 MzsRE is located in ./data/MzsRE/
 
-Models are located in ./model/
+Models are located in ./model/ You can download from [google drive](https://drive.google.com/drive/folders/1uvGMUapE775srRd9GAWyb9o0ENmMU2lo?usp=sharing)
 
 ### 2. Edit
 ```
