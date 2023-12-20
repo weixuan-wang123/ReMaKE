@@ -1,0 +1,8 @@
+alg_name: "IKE"
+device: 0
+
+model_name: "./model/llama2-7b"
+sentence_model_name: "./model/all-MiniLM-L6-v2"
+results_dir: "./results/multiKE/lang1lang2/16/"
+
+k: 16
