@@ -4,7 +4,7 @@ ReMaKE
 </h1>
 </div>
 
-This repository contains the data and codes for our paper "[Retrieval-augmented Multilingual Knowledge Editing]()".
+This repository contains the data and codes for our paper "[Retrieval-augmented Multilingual Knowledge Editing](https://arxiv.org/abs/2312.13040)".
 ### 1. Data & Model
 
 MzsRE is located in ./data/MzsRE/
@@ -30,3 +30,12 @@ python evaluate.py
 
 ### Citation
 If you find this work is useful or use the data in your work, please consider cite our paper:
+
+```
+@article{wang2023retrievalaugmented,
+  title={Retrieval-augmented Multilingual Knowledge Editing}, 
+  author={Weixuan Wang and Barry Haddow and Alexandra Birch},
+  journal={arXiv preprint arXiv:2312.13040},
+  year={2023}
+}
+```
