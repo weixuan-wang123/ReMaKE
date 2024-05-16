@@ -15,9 +15,9 @@ Despite LLMs' considerable progress, facts induced by LLMs can be incorrect or b
 
 <h2 align=center>Methodology</h2>
 
-<table>
+<table align="center">
 <tr>
-  <td width="80%" align="middle" valign="middle"><img src="./fig1.png" alt="figure1"></td>
+  <td width="80%" align="center" valign="middle"><img src="./fig1.png" alt="figure1"></td>
 </tr>
 </table>
 
@@ -27,9 +27,9 @@ Despite LLMs' considerable progress, facts induced by LLMs can be incorrect or b
 <h3 align=center>Zero-shot and Few-shot Editing</h3>
 
 
-<table>
+<table align="center" align="center">
 <tr>
-  <td width="80%" align="middle" valign="middle"><img src="./fig2.png" alt="figure2"></td>
+  <td width="80%" align="center" valign="middle"><img src="./fig2.png" alt="figure2"></td>
 </tr>
 </table>
 
@@ -37,9 +37,9 @@ Despite LLMs' considerable progress, facts induced by LLMs can be incorrect or b
 
 <h2 align=center>Dataset (MzsRE)</h2>
 
-<table>
+<table align="center">
 <tr>
-  <td width="80%" align="middle" valign="middle"><img src="./fig3.png" alt="figure3"></td>
+  <td width="80%" align="center" valign="middle"><img src="./fig3.png" alt="figure3"></td>
 </tr>
 </table>
 
@@ -48,23 +48,23 @@ Despite LLMs' considerable progress, facts induced by LLMs can be incorrect or b
 
 <h3 align=center>Editing in English</h3>
 
-<table>
+<table align="center">
 <tr>
-  <td width="80%" align="middle" valign="middle"><img src="./fig4.png" alt="figure4"></td>
+  <td width="80%" align="center" valign="middle"><img src="./fig4.png" alt="figure4"></td>
 </tr>
 </table>
 
 <h3 align=center>Editing in Non-English</h3>
 
-<table>
+<table align="center">
 <tr>
-  <td width="80%" align="middle" valign="middle"><img src="./fig5.png" alt="figure5"></td>
+  <td width="80%" align="center" valign="middle"><img src="./fig5.png" alt="figure5"></td>
 </tr>
 </table>
 
 <h3 align=center>Multilingual Editing</h3>
 
-<table align="center">
+<table align="center" align="center">
 <tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./fig6.png" alt="figure6"></td>
   <td width="50%" align="center" valign="middle"><img src="./fig7.png" alt="figure7"></td>
@@ -73,7 +73,7 @@ Despite LLMs' considerable progress, facts induced by LLMs can be incorrect or b
 
 <h3 align=center>Ablation Study </h3>
 
-<table align="center">
+<table align="center" align="center">
 <tr align="center">
   <td width="50%" align="center" valign="middle"><img src="./fig8.png" alt="figure6"></td>
   <td width="50%" align="center" valign="middle"><img src="./fig9.png" alt="figure7"></td>
