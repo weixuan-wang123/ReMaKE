@@ -32,10 +32,24 @@ python evaluate.py
 If you find this work is useful or use the data in your work, please consider cite our paper:
 
 ```
-@article{wang2023retrievalaugmented,
-  title={Retrieval-augmented Multilingual Knowledge Editing}, 
-  author={Weixuan Wang and Barry Haddow and Alexandra Birch},
-  journal={arXiv preprint arXiv:2312.13040},
-  year={2023}
+@inproceedings{DBLP:conf/acl/WangHB24,
+  author       = {Weixuan Wang and
+                  Barry Haddow and
+                  Alexandra Birch},
+  editor       = {Lun{-}Wei Ku and
+                  Andre Martins and
+                  Vivek Srikumar},
+  title        = {Retrieval-Augmented Multilingual Knowledge Editing},
+  booktitle    = {Proceedings of the 62nd Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand,
+                  August 11-16, 2024},
+  pages        = {335--354},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2024},
+  url          = {https://doi.org/10.18653/v1/2024.acl-long.21},
+  doi          = {10.18653/V1/2024.ACL-LONG.21},
+  timestamp    = {Sun, 19 Jan 2025 13:21:44 +0100},
+  biburl       = {https://dblp.org/rec/conf/acl/WangHB24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
